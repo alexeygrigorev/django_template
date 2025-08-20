@@ -175,7 +175,6 @@ Desktop.ini
 # Django specific
 media/
 staticfiles/
-static/
 *.sqlite3
 *.db
 
